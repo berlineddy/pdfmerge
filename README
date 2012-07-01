@@ -1,0 +1,5 @@
+merge pdf files
+
+./pdfmerge -o outputfile.pdf first.pdf second.pdf third.pdf …
+
+tested on Mac OS X Lion, shold work on every os with ruby and ghostscript installed
